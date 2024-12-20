@@ -1,3 +1,3 @@
-Basics to Advance Java codes
+Basic to Advance Java codes
 <br>
 <b>Author - Anil Yadav</b>
